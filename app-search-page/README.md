@@ -10,7 +10,8 @@ A clear understanding of the following
 
 -   _basic/intermediate level of HTML/CSS/JS._
 -   _concept of `props` and `prop-types` in React._
-
+-   fundamentals of using `git` cli- `clone`, `pull`, `fetch`, `checkout`
+-   basics of documentation
 ---
 
 ## Scope
@@ -20,8 +21,7 @@ This assignment aims to cover the following:
 -   react hooks - `useState` and `useEffect`
 -   UI composition (proper arrangement of UI components to create an easy to manage component tree ) in React
 -   passing props and data between components
--   fundamentals of using `git` cli- `clone`, `pull`, `fetch`, `checkout`
--   basics of documentation
+
 
 ---
 
