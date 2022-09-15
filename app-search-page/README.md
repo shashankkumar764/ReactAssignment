@@ -1,6 +1,6 @@
 # App Search Page
 
-**All the expected outcomes from Assignment are still expected from this assignment, with some additional few.**
+**All the expected outcomes from Assignment 1 are still expected from this assignment, with some additional few.**
 
 ---
 
