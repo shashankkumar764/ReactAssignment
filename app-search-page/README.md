@@ -1,5 +1,7 @@
 # App Search Page
 
+![app search page design](https://github.com/the-devdesigner/react-assignments/blob/master/app-search-page/design/118741a8bb22395a8e9933b44e3cbf63.png)
+
 **All the expected outcomes from Assignment 1 are still expected from this assignment, with some additional few.**
 
 ---
@@ -41,6 +43,6 @@ This assignment aims to cover the following:
 
 ## Design
 
-You will find the design reference in the `design` folder, or the same design is as below 👇
+You will find the design reference in the `design` folder.
 
-![app search page design](https://github.com/the-devdesigner/react-assignments/blob/master/app-search-page/design/118741a8bb22395a8e9933b44e3cbf63.png)
+
