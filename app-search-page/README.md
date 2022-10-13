@@ -38,3 +38,9 @@ This assignment aims to cover the following:
 -   using `props` to control the UI and overall behavior of individual components.
 -   react hooks - `useState` and `useEffect`
 -   clean and clear documentation of components and codes
+
+## Design
+
+You will find the design reference in the `design` folder, or the same design is as below 👇
+
+![app search page design](https://github.com/the-devdesigner/react-assignments/blob/master/app-search-page/design/118741a8bb22395a8e9933b44e3cbf63.png)
