@@ -1,0 +1,19 @@
+.cardTitle{
+    font-weight: bold;
+    margin-left: 10%;
+
+}
+.cardTitleDescription{
+    margin-left: 10%;
+    max-width: 80%;
+    font-size: 14px;
+}
+.createdBy{
+    font-weight: 600;
+    margin-left: 30%;
+    font-size: 14px;
+}
+.createdOn{
+    font-size: 14px;
+
+}
